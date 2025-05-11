@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ashimpdl7@gmail.com**
 
-- ⚡ Fun fact **I am Funny😊**
+- ⚡ Fun fact **I am aggressive 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
