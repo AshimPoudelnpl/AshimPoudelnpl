@@ -7,7 +7,7 @@
 
 <h3><b>React+Vite
 </b></h3>
-<p>A web developer learning React and building projects to enhance his skills. He focuses on mastering React fundamentals, hooks, and API integration, applying his knowledge through hands-on projects like a To-Do app, weather forecast app, and portfolio website.<p></p>
+<p>A web developer learning React and building projects to enhance the  skills. I  focuses on mastering React fundamentals, hooks, and API integration, applying his knowledge through hands-on projects like a To-Do app, weather forecast app, and portfolio website.<p></p>
 
 
 
