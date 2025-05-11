@@ -1,13 +1,17 @@
 ![logo](https://github.com/AshimPoudelnpl/AshimPoudelnpl/blob/main/Capture.PNG)
-<h1 align="center">Hi 👋, I'm Ashim Poudel</h1>
+<h1 align="center">Hi 👋, What's up</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <img align="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashimpoudelnpl&label=Profile%20views&color=0e75b6&style=flat" alt="ashimpoudelnpl" /> </p>
 
-- 🌱 I’m currently learning **React+vite,Angular,Django**
+<h3><b>React+Vite
+</b></h3>
+<p>A web developer learning React and building projects to enhance his skills. He focuses on mastering React fundamentals, hooks, and API integration, applying his knowledge through hands-on projects like a To-Do app, weather forecast app, and portfolio website.<p></p>
 
-- 💬 Ask me about **React**
+
+
+- 💬 Still Learning Backend Development using Django
 
 - 📫 How to reach me **ashimpdl7@gmail.com**
 
