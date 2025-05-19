@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashimpoudelnpl&label=Profile%20views&color=0e75b6&style=flat" alt="ashimpoudelnpl" /> </p>
 
-<h3><b>React+Vite
+<h3><b>Hi I am Ashim_Poudel,
 </b></h3>
-<p>A web developer learning React and building projects to enhance the  skills. I  focuses on mastering React fundamentals, hooks, and API integration, applying his knowledge through hands-on projects like a To-Do app, weather forecast app, and portfolio website.<p></p>
+<p>A passionate web developer learning React and building projects to enhance the  skills. I  focuses on mastering React fundamentals, hooks, and API integration, applying his knowledge through hands-on projects like a To-Do app, weather forecast app, and portfolio website.<p></p>
 
 
 
