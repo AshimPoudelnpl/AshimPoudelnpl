@@ -7,9 +7,33 @@
 
 <h3><b>Hi I am Ashim_Poudel,
 </b></h3>
-<p>A passionate web developer learning React and building projects to enhance the  skills. I  focuses on mastering React fundamentals, hooks, and API integration, applying his knowledge through hands-on projects like a To-Do app, weather forecast app, and portfolio website.<p></p>
+<p><li>A passionate web developer learning React and building projects to enhance the  skills. I  focuses on mastering React fundamentals, hooks, and API integration, applying his knowledge through hands-on projects like a To-Do app, weather forecast app, and portfolio website.<p></p>
+<ul>Tech Stack
+
+<li>Frontend:</li>
+
+React
+
+Axios
+
+React Router DOM
+
+Bootstrap / Tailwind CSS
 
 
+<li>Backend:</li>
+
+Node.js
+
+Express.js
+
+MongoDB (with Mongoose)
+
+JSON Web Tokens (JWT)
+
+bcryptjs (for password hashing
+
+</ul>
 
 - 💬 Still Learning Backend Development using Django
 
