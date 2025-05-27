@@ -10,27 +10,20 @@
 <p><li>A passionate web developer learning React and building projects to enhance the  skills. I  focuses on mastering React fundamentals, hooks, and API integration, applying his knowledge through hands-on projects like a To-Do app, weather forecast app, and portfolio website.<p></p>
 <ul>Tech Stack
 
-<li>Frontend:</li>
+<li><b>Frontend:</b></li>
 
 React
-
 Axios
-
 React Router DOM
-
 Bootstrap / Tailwind CSS
 
 
-<li>Backend:</li>
+<li><b>Backend:</b></li>
 
 Node.js
-
 Express.js
-
 MongoDB (with Mongoose)
-
 JSON Web Tokens (JWT)
-
 bcryptjs (for password hashing
 
 </ul>
