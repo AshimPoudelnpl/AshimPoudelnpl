@@ -1,4 +1,4 @@
-![logo](https://github.com/AshimPoudelnpl/AshimPoudelnpl/blob/main/Capture.PNG)
+
 
 <h1 align="center">Hi 👋, What's up</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
