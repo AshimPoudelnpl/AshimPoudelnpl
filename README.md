@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, What's up</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate Full-Stack Web developer from Nepal</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -25,10 +25,10 @@
   React, Axios, React Router DOM, Bootstrap / Tailwind CSS
 
   <li><b>Backend:</b></li>
-  Node.js, Express.js, MongoDB (Mongoose), JWT, bcryptjs
+  Node.js, Express.js, MySQL, JWT, bcryptjs
 </ul>
 
-- 💬 Still Learning Backend Development using Django  
+- 💬 Still Learning Backend Development using Node.js  
 - 📫 How to reach me: **ashimpdl7@gmail.com**  
 - ⚡ Fun fact: **I am aggressive 😊**
 
